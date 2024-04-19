@@ -4,7 +4,7 @@ This repository provides syntax highlighting support for Flipper Zero's **[BadUS
 It is compatible with BadUSB, Bad KB and USB Rubber Ducky 1.0
 
 ## BadUSB for Notepad++
-UDL stands for User-defined Language. This resource enhances the coding experience for BadUSB script development using **[Notepad++](https://notepad-plus-plus.org/)**. It offers syntax highlights for BadUSB and Bad KB scripts, supporting both light and dark modes, and all Notepad++ preset themes.  
+UDL stands for User-defined Language. This resource enhances the coding experience for BadUSB script development using **[Notepad++](https://notepad-plus-plus.org/)**. It offers syntax highlights for BadUSB and Bad KB scripts, supporting both light and dark modes, and all of the preset themes in Notepad++.  
 
 BadUSB uses an extended DuckyScript 1.0 syntax which makes it compatible with classic USB Rubber Ducky 1.0 scripts but also provides some additional features, such as setting a custom ID check for the Flipper USB HID device that's injecting the script, Alt+Numpad inputs, the "Wait for button press" command, and Magic SysRq key inputs for Linux systems.  
 
