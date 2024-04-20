@@ -35,7 +35,7 @@ BadUSB uses an extended DuckyScript 1.0 syntax which makes it compatible with cl
    ▪ Locate and click on the downloaded `badusb-udl.xml` file  
    ▪ Click "Open" to import the BadUSB UDL  
 4. **Restart Notepad++:** After seeing an "Import successful." prompt, Notepad++ can be closed
-5. **Navigate to the "Language" menu:** After restarting Notepad++ the BadUDL syntax highlighting will be available in the "Language" menu.
+5. **Navigate to the "Language" menu:** After restarting Notepad++ the BadUSB syntax highlighting will be available in the "Language" menu.
 
 ---
 
