@@ -19,8 +19,9 @@ BadUSB uses an extended DuckyScript 1.0 syntax which makes it compatible with cl
 ▪ Modifier keys  
 ▪ Media keys  
 ▪ Alt+Numpad inputs  
-▪ Wait for button press  
+▪ Wait For Button Press  
 ▪ SysRq inputs  
+▪ Mouse inputs  
 
 ---
 
