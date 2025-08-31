@@ -1,43 +1,32 @@
-# **BadUSB-UDL**
+<div align="center">
 
-This repository provides syntax highlighting support for Flipper Zero's **[BadUSB](https://docs.flipper.net/bad-usb)** scripts in Notepad++.  
-It is compatible with BadUSB, Bad KB and USB Rubber Ducky 1.0
+### BadUSB for [Notepad++](https://notepad-plus-plus.org/)
 
+</div>
+
+
+## ✨ Highlights:
+- Flipper Zero scripting language 🐬
+- DuckyScript 1.0 🦆
+- Delays  
+- Special keys  
+- Modifier keys  
+- Media keys  
+- Alt+Numpad inputs  
+- Wait For Button Press  
+- SysRq inputs  
+- Mouse inputs  
+
+&nbsp;
+
+## 💾 Usage:
+1. Download `badusb-udl.xml` from [Releases](../../releases).
+2. Open [Notepad++](https://notepad-plus-plus.org/downloads/).
+3. Go to the "Language" menu and navigate to "User Defined Language".
+4. Select "Define your language..." and click "Import".
+5. Import the `badusb-udl.xml` file.
+6. Restart Notepad++ after seeing the "Import successful." prompt.
+7. Navigate to the "Language" menu - the BadUSB syntax highlighting will now be available.
+
+&nbsp;
 ---
-
-### **BadUSB for Notepad++**
-UDL stands for User-defined Language. This resource enhances the coding experience for BadUSB script development using **[Notepad++](https://notepad-plus-plus.org/)**. It offers syntax highlights for BadUSB and Bad KB scripts, supporting both light and dark modes, and all of the preset themes in Notepad++.  
-
----
-
-### **Flipper Zero scripting language**
-BadUSB uses an extended DuckyScript 1.0 syntax which makes it compatible with classic USB Rubber Ducky 1.0 scripts but also provides extra features, such as setting a custom ID check for the Flipper USB HID device that's injecting the script, Alt+Numpad inputs, the "Wait for button press" command, and Magic SysRq key inputs for Linux systems.  
-
-### **Highlights specific elements including:**
-▪ Delays  
-▪ Special keys  
-▪ Modifier keys  
-▪ Media keys  
-▪ Alt+Numpad inputs  
-▪ Wait For Button Press  
-▪ SysRq inputs  
-▪ Mouse inputs  
-
----
-
-### **Deployment**
-1. **Download the BadUSB-UDL .xml file:** Navigate to **[BadUSB-UDL](https://github.com/ScottyGrotty/BadUSB-UDL)** on GitHub and click the `badusb-udl.xml` file and download it  
-2. **Open Notepad++**: Don't have Notepad++ yet? Download it **[here](https://notepad-plus-plus.org/downloads/)**.
-3. **Import the UDL file:**  
-   ▪ Go to the "Language" menu  
-   ▪ Navigate to "User Defined Language"  
-   ▪ Select "Define your language..."  
-   ▪ Inside the UDL dialog, click the "Import" button  
-   ▪ Locate and click on the downloaded `badusb-udl.xml` file  
-   ▪ Click "Open" to import the BadUSB UDL  
-4. **Restart Notepad++:** After seeing an "Import successful." prompt, Notepad++ can be closed
-5. **Navigate to the "Language" menu:** After restarting Notepad++ the BadUSB syntax highlighting will be available in the "Language" menu.
-
----
-
-**BadUSB-UDL project** :dolphin:
